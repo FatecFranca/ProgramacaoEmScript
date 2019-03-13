@@ -1,0 +1,38 @@
+body {
+    background-color: yellow;
+    color: rgba(0,0,0,0,1);
+    margin: 0;
+}
+
+table {
+/*    width: 400px;
+*/
+    margin: 0 auto;
+    border: 1px solid black;
+    border-collapse: center;
+    text-align: left;
+    caption-side: top;
+}
+
+caption {
+    font-size: 80%;
+    padding-top: 5px;
+    text-align: left;
+}
+
+th, td {
+    border: 1px solid blueviolet;
+    padding: 3px 10px;
+}
+
+th {
+    background: #DDD;
+}
+
+#nome {
+    width: 300px;
+}
+
+#cpf {
+    width: 150px;
+}
